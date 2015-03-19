@@ -26,7 +26,7 @@ namespace WindowsFormsApplication58
             //string path3 = @"C:\План_закупки_товаров\3.docx";
 
 
-            string path =  Environment.CurrentDirectory + @"\"+"ПЛАН_ЗАКУПКИ_ТОВАРОВ.docx";
+            string path = Environment.CurrentDirectory + @"\" + "ПЛАН_ЗАКУПКИ_ТОВАРОВ.docx";
              string path2 =  Environment.CurrentDirectory + @"\" +"2.docx";
             myList.Add(new List<string> { "ph_table1",
          
